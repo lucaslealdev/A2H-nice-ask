@@ -71,6 +71,7 @@
     padding-left: 10px;
     padding-right: 10px;
     font-size: 17px;
+    z-index: 9999;
 }
 
 #a2h-nice-ask-install.a2h-show {
